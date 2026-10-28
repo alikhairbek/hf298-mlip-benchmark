@@ -1,0 +1,8 @@
+# analysis (CPU): python >= 3.10
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+rdkit>=2024.03
+ase>=3.23
+# running the protocol (GPU recommended): see protocol/benchmark_pipeline_kaggle.ipynb for the per-model installs
+# mace-torch (MACE-OFF23, Egret-1), torchani (ANI-1ccx, ANI-2x), aimnet (AIMNet2), fairchem-core + huggingface_hub (UMA), tblite (GFN2-xTB)

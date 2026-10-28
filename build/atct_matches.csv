@@ -1,0 +1,181 @@
+id,name,formula,atct_name,match
+B0001,Hydrogen,H2,Dihydrogen,unique-formula
+B0002,ammonia,H3N,Ammonia,unique-formula
+B0003,hydrogen fluoride,HF,Hydrogen fluoride,unique-formula
+B0004,methane,CH4,Methane,unique-formula
+B0005,water,H2O,Water,unique-formula
+B0007,Carbon monoxide,CO,Carbon monoxide,unique-formula
+B0008,Hydroxylamine,H3NO,Hydroxylamine,name
+B0009,Methanimine,CH3N,Methanimine,name
+B0010,difluorine,F2,Difluorine,unique-formula
+B0011,dinitrogen,N2,Dinitrogen,unique-formula
+B0013,ethane,C2H6,Ethane,unique-formula
+B0014,ethene,C2H4,Ethylene,unique-formula
+B0015,ethyne,C2H2,Acetylene,unique-formula
+B0017,fluoromethane,CH3F,Fluoromethane,unique-formula
+B0018,formaldehyde,CH2O,Formaldehyde,name
+B0019,hydrazine,H4N2,Hydrazine,unique-formula
+B0020,hydrogen cyanide,CHN,Hydrogen cyanide,name
+B0021,hydrogen peroxide,H2O2,Hydrogen peroxide,name
+B0022,hypofluorous acid,HFO,Hypofluorous acid,unique-formula
+B0023,methanamine,CH5N,Methylamine,unique-formula
+B0024,methanol,CH4O,Methanol,unique-formula
+B0025,Cyanamide,CH2N2,Cyanamide,name
+B0026,Cyanic acid,CHNO,Cyanic acid,name
+B0028,Diazomethane,CH2N2,Diazomethane,name
+B0029,Dioxirane,CH2O2,Dioxirane,name
+B0030,Ethynol,C2H2O,Ethynol,name
+B0033,Nitrous acid,HNO2,Nitrous acid,name
+B0034,Nitrous fluoride,FNO,Nitrosyl fluoride,unique-formula
+B0035,Nitrous oxide,N2O,Nitrous oxide,name
+B0036,Oxirene,C2H2O,Oxirene,name
+B0037,acetaldehyde,C2H4O,Acetaldehyde,name
+B0038,acetonitrile,C2H3N,Acetonitrile,name
+B0039,allene,C3H4,Allene,name
+B0040,aziridine,C2H5N,Aziridine,name
+B0041,carbon dioxide,CO2,Carbon dioxide,unique-formula
+B0042,cyanic fluoride,CFN,Cyanic fluoride,name
+B0043,cyclopropane,C3H6,Cyclopropane,name
+B0044,cyclopropene,C3H4,Cyclopropene,name
+B0045,difluoromethane,CH2F2,Difluoromethane,unique-formula
+B0046,dimethylamine,C2H7N,Dimethylamine,name
+B0047,ethanamine,C2H7N,Ethylamine,name
+B0048,ethanol,C2H6O,Ethanol,name
+B0049,ethenone,C2H2O,Ketene,name
+B0050,ethyl fluoride,C2H5F,Fluoroethane,unique-formula
+B0051,fluoroethene,C2H3F,Vinyl fluoride,unique-formula
+B0052,fluoroethyne,C2HF,Fluoroacetylene,unique-formula
+B0054,formic acid,CH2O2,Formic acid,name
+B0056,formyl fluoride,CHFO,Formyl fluoride,unique-formula
+B0057,hydrogen azide,HN3,Hydrazoic acid,name
+B0058,hydroperoxymethane,CH4O2,Methyl hydroperoxide,name-manual
+B0059,hypofluorous anhydride,F2O,Oxygen difluoride,name-manual
+B0060,isocyanic acid,CHNO,Isocyanic acid,name
+B0061,isocyanomethane,C2H3N,Isocyanomethane,name
+B0062,methoxymethane,C2H6O,Methoxymethane,name
+B0064,oxirane,C2H4O,Oxirane,name
+B0065,ozone,O3,Ozone,name
+B0066,prop-1-ene,C3H6,Propene,name-manual
+B0067,prop-1-yne,C3H4,Propyne,name-manual
+B0068,propane,C3H8,Propane,unique-formula
+B0071,"1,1-difluoroethane",C2H4F2,"1,1-Difluoroethane",name
+B0072,"1,1-difluoroethene",C2H2F2,"1,1-Difluoroethene",name
+B0075,"1,2-difluorodiazene",F2N2,Difluorodiazene,unique-formula
+B0076,"1,2-difluoroethane",C2H4F2,"1,2-Difluoroethane",name
+B0077,"1,2-difluoroethyne",C2F2,"1,2-Difluoroacetylene",unique-formula
+B0080,2-Fluoroethanol,C2H5FO,2-Fluoroethanol,unique-formula
+B0083,2-methylprop-1-ene,C4H8,Isobutene,name-manual
+B0084,Carbonic acid,CH2O3,Carbonic acid,name
+B0085,Ethane dinitrile,C2N2,Cyanogen,name-manual
+B0086,Glycol,C2H6O2,Ethylene glycol,name-manual
+B0087,Isocyanogen,C2N2,Isocyanogen,name
+B0090,Nitric acid,HNO3,Nitric acid,name
+B0091,Nitrogen trifluoride,F3N,Nitrogen trifluoride,name
+B0093,Peroxyformic acid,CH2O3,Peroxyformic acid,name
+B0094,acetamide,C2H5NO,Acetamide,name
+B0095,acetic acid,C2H4O2,Acetic acid,name
+B0097,acrolein,C3H4O,Acrolein,name
+B0098,acrylonitrile,C3H3N,Acrylonitrile,name
+B0101,but-1-en-3-yne,C4H4,Vinylacetylene,name
+B0102,but-1-ene,C4H8,1-Butene,name
+B0103,but-1-yne,C4H6,1-Butyne,name
+B0104,but-2-yne,C4H6,2-Butyne,name
+B0105,"buta-1,2-diene",C4H6,"1,2-Butadiene",name
+B0106,"buta-1,3-diene",C4H6,"1,3-Butadiene",name
+B0107,"buta-1,3-diyne",C4H2,"1,3-Butadiyne",unique-formula
+B0108,butane,C4H10,n-Butane,name-manual
+B0109,carbonic difluoride,CF2O,Difluorophosgene,name
+B0110,cyclobutane,C4H8,Cyclobutane,name
+B0111,cyclobutene,C4H6,Cyclobutene,name
+B0115,ethyl hydroperoxide,C2H6O2,Ethyl hydroperoxide,name
+B0116,fluoroform,CHF3,Fluoroform,unique-formula
+B0117,hypofluorous peroxyanhydride,F2O2,Difluorodioxidane,unique-formula
+B0118,isobutane,C4H10,iso-Butane,name-manual
+B0120,methoxyethane,C3H8O,Methoxyethane,name
+B0121,methyl formate,C2H4O2,Methyl formate,name
+B0122,methyl nitrite,CH3NO2,Methyl nitrite,name
+B0124,nitromethane,CH3NO2,Nitromethane,name
+B0125,oxalaldehyde,C2H2O2,Glyoxal,name-manual
+B0128,propan-1-amine,C3H9N,1-Propanamine,name
+B0129,propan-1-ol,C3H8O,1-Propanol,name
+B0130,propan-2-amine,C3H9N,2-Propanamine,name
+B0131,propan-2-ol,C3H8O,2-Propanol,name
+B0132,propan-2-one,C3H6O,Acetone,name-manual
+B0133,propiolonitrile,C3HN,Cyanoacetylene,name-manual
+B0134,propionaldehyde,C3H6O,Propionaldehyde,name
+B0139,trimethylamine,C3H9N,Trimethylamine,name
+B0140,urea,CH4N2O,Urea,name
+B0144,"1,1,2-trifluoroethene",C2HF3,Trifluoroethene,unique-formula
+B0175,2-methylpropan-2-amine,C4H11N,2-Methyl-2-propanamine,name
+B0176,2-methylpropan-2-ol,C4H10O,2-Methyl-2-propanol,name
+B0184,Dinitrogen trioxide,N2O3,Nitrogen sesquioxide,name-manual
+B0190,Nitroethane,C2H5NO2,Nitroethane,name
+B0203,butan-1-ol,C4H10O,1-Butanol,name
+B0204,butan-2-one,C4H8O,2-Butanone,name
+B0205,butyraldehyde,C4H8O,Butyraldehyde,name
+B0210,"cyclopenta-1,3-diene",C5H6,Cyclopentadiene,name
+B0211,cyclopentane,C5H10,Cyclopentane,name
+B0212,cyclopentene,C5H8,Cyclopentene,name
+B0217,ethoxyethane,C4H10O,Diethyl ether,name
+B0218,ethoxyethene,C4H8O,Ethoxyethene,name
+B0219,ethyl formate,C3H6O2,Ethyl formate,name
+B0222,furan,C4H4O,Furan,name
+B0223,glycine,C2H5NO2,Glycine,name
+B0227,isopentane,C5H12,iso-Pentane,name-manual
+B0228,isoprene,C5H8,Isoprene,name
+B0232,methyl acetate,C3H6O2,Methyl acetate,name
+B0236,neopentane,C5H12,neo-Pentane,name-manual
+B0248,pentane,C5H12,n-Pentane,name-manual
+B0249,perfluoromethane,CF4,Tetrafluoromethane,unique-formula
+B0250,"propa-1,2-diene-1,3-dione",C3O2,Carbon suboxide,unique-formula
+B0253,propionic acid,C3H6O2,Propionic acid,name
+B0290,"1,3-dioxolan-2-one",C3H4O3,"1,3-Dioxolan-2-one",name
+B0308,"2,2-dimethylbutane",C6H14,"2,2-Dimethylbutane",name
+B0311,"2,3-Butanedione",C4H6O2,"2,3-Butanedione",name
+B0316,"2,3-dimethylbutane",C6H14,"2,3-Dimethylbutane",name
+B0335,2-methylpentane,C6H14,2-Methylpentane,name
+B0352,3-methylpentane,C6H14,3-Methylpentane,name
+B0363,Dinitrogen tetroxide,N2O4,Dinitrogen tetraoxide,name
+B0370,Oxalic acid,C2H2O4,Oxalic acid,unique-formula
+B0373,benzene,C6H6,Benzene,name
+B0389,cyclohexane,C6H12,Cyclohexane,name
+B0390,cyclohexene,C6H10,Cyclohexene,name
+B0404,fulvene,C6H6,Fulvene,name
+B0410,"hexa-1,5-diene",C6H10,"1,5-Hexadiene",name
+B0411,"hexa-2,4-diyne",C6H6,"2,4-Hexadiyne",name-manual
+B0412,hexane,C6H14,n-Hexane,name
+B0418,methylcyclopentane,C6H12,Methylcyclopentane,name
+B0431,perfluoroethene,C2F4,Tetrafluoroethylene,unique-formula
+B0432,perfluorohydrazine,F4N2,Tetrafluorohydrazine,unique-formula
+B0440,pyridine,C5H5N,Pyridine,name
+B0462,"1,3,5-cycloheptatriene",C7H8,Cycloheptatriene,name
+B0585,Dinitrogen pentoxide,N2O5,Dinitrogen pentoxide,unique-formula
+B0586,Fluorobenzene,C6H5F,Fluorobenzene,unique-formula
+B0597,aniline,C6H7N,Aniline,name
+B0599,"bicyclo[2.2.1]hepta-2,5-diene",C7H8,Norbornadiene,name-manual
+B0608,cycloheptane,C7H14,Cycloheptane,name
+B0651,n-Heptane,C7H16,n-Heptane,name
+B0657,phenol,C6H6O,Phenol,name
+B0667,toluene,C7H8,Toluene,name
+B0699,"2,2,4-Trimethylpentane",C8H18,"2,2,4-Trimethylpentane",name
+B0799,Ethylbenzene,C8H10,Ethylbenzene,name
+B0802,Phenylacetylene,C8H6,Phenylacetylene,name
+B0803,Succinic acid,C4H6O4,Succinic acid,name
+B0808,anisole,C7H8O,Anisole,name
+B0811,benzaldehyde,C7H6O,Benzaldehyde,name
+B0812,benzonitrile,C7H5N,Benzonitrile,name
+B0882,n-Octane,C8H18,n-Octane,name
+B0892,perfluoroethane,C2F6,Hexafluoroethane,unique-formula
+B0898,styrene,C8H8,Phenylethene,name
+B1032,Benzoyl fluoride,C7H5FO,Benzoyl fluoride,unique-formula
+B1033,Indene,C9H8,Indene,name
+B1041,Nitrobenzene,C6H5NO2,Nitrobenzene,unique-formula
+B1042,acetophenone,C8H8O,Acetophenone,name
+B1044,benzoic acid,C7H6O2,Benzoic acid,name
+B1084,indane,C9H10,Indane,unique-formula
+B1093,n-nonane,C9H20,n-Nonane,name
+B1366,decane,C10H22,n-Decane,name
+B1409,naphthalene,C10H8,Naphthalene,name
+B1531,Hexafluorobenzene,C6F6,Hexafluorobenzene,unique-formula
+B1564,anthracene,C14H10,Anthracene,name
+B1566,phenanthrene,C14H10,Phenanthrene,name

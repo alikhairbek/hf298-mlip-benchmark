@@ -1,0 +1,302 @@
+name|formula|dHf298_kJ|unc_kJ
+Dihydrogen|H2|0|0
+Dinitrogen|N2|0|0
+Difluorine|F2|0|0
+Methane|CH4|-74.513|0.043
+Carbon dioxide|CO2|-393.477|0.015
+Water|H2O|-241.808|0.022
+Ethane|C2H6|-84.03|0.12
+Ethylene|C2H4|52.39|0.11
+Propane|C3H8|-105.00|0.15
+Methanol|CH4O|-200.85|0.14
+Ammonia|H3N|-45.554|0.029
+Formaldehyde|CH2O|-109.223|0.094
+Carbon monoxide|CO|-110.519|0.025
+Acetylene|C2H2|228.32|0.12
+Ethanol|C2H6O|-234.90|0.20
+Benzene|C6H6|83.18|0.21
+Propene|C3H6|20.06|0.18
+Hydrogen fluoride|HF|-272.721|0.018
+Hydrogen cyanide|CHN|129.303|0.087
+Methylamine|CH5N|-21.15|0.22
+Acetaldehyde|C2H4O|-165.40|0.22
+Propyne|C3H4|185.56|0.20
+Acetone|C3H6O|-216.88|0.26
+Allene|C3H4|190.02|0.22
+Hydrogen peroxide|H2O2|-135.409|0.058
+Fluoromethane|CH3F|-235.47|0.24
+n-Butane|C4H10|-125.55|0.18
+Toluene|C7H8|50.07|0.31
+Ozone|O3|141.744|0.039
+1,3-Butadiene|C4H6|111.15|0.29
+Ketene|C2H2O|-48.40|0.11
+Ethylamine|C2H7N|-49.78|0.42
+Acetonitrile|C2H3N|74.08|0.23
+iso-Butane|C4H10|-134.48|0.27
+Tetrafluoromethane|CF4|-933.60|0.23
+Formamide|CH3NO|-189.00|0.34
+Cyclopropane|C3H6|53.93|0.32
+Cyclopentadiene|C5H6|134.76|0.49
+Methoxymethane|C2H6O|-183.90|0.35
+Methanimine|CH3N|88.50|0.34
+Fluoroform|CHF3|-696.23|0.40
+Methyl hydroperoxide|CH4O2|-127.65|0.42
+Phenol|C6H6O|-92.94|0.62
+Benzaldehyde|C7H6O|-36.96|0.68
+Cyanoacetylene|C3HN|373.99|0.57
+Nitric acid|HNO3|-134.12|0.17
+Dimethylamine|C2H7N|-16.97|0.45
+Vinylacetylene|C4H4|289.69|0.52
+Oxirane|C2H4O|-52.28|0.33
+1,3-Butadiyne|C4H2|460.10|0.48
+Isocyanic acid|CHNO|-118.91|0.28
+Cyanamide|CH2N2|135.62|0.78
+Difluorophosgene|CF2O|-606.44|0.40
+Hypofluorous acid|HFO|-87.28|0.19
+Isobutene|C4H8|-16.76|0.32
+N-Methylenemethanamine|C2H5N|79.70|0.67
+Nitromethane|CH3NO2|-74.47|0.40
+Isocyanomethane|C2H3N|177.26|0.47
+1,2-Butadiene|C4H6|162.55|0.42
+Ethyl hydroperoxide|C2H6O2|-160.91|0.62
+Cyclopropene|C3H4|283.85|0.41
+2-Butyne|C4H6|146.60|0.45
+Difluoromethane|CH2F2|-450.92|0.35
+Oxygen difluoride|F2O|24.55|0.22
+Butatriene|C4H4|322.16|0.53
+Tetrafluoroethylene|C2F4|-674.06|0.47
+Naphthalene|C10H8|147.67|0.54
+neo-Pentane|C5H12|-167.14|0.38
+1-Butene|C4H8|0.27|0.33
+n-Hexane|C6H14|-166.78|0.32
+Propionaldehyde|C3H6O|-186.51|0.20
+Aziridine|C2H5N|127.05|0.85
+1-Butyne|C4H6|166.83|0.56
+Formic acid|CH2O2|-378.28|0.20
+Vinyl fluoride|C2H3F|-142.32|0.45
+Indene|C9H8|159.90|0.72
+Fluorobenzene|C6H5F|-111.72|0.39
+Nitrous oxide|N2O|82.592|0.096
+Nitrogen trifluoride|F3N|-131.99|0.39
+Cyanic fluoride|CFN|8.83|0.74
+n-Pentane|C5H12|-146.05|0.29
+Acetic acid|C2H4O2|-432.60|0.32
+Ethenamine|C2H5N|54.83|0.66
+Fluoroethane|C2H5F|-272.11|0.35
+Pyridine|C5H5N|140.53|0.40
+Acrylonitrile|C3H3N|187.25|0.60
+2,4-Hexadiyne|C6H6|370.32|0.82
+1-Propanol|C3H8O|-254.98|0.20
+Cyclopentane|C5H10|-75.95|0.38
+Tetrahedrane|C4H4|539.30|0.90
+Cyanogen|C2N2|310.15|0.41
+Cyclopentene|C5H8|35.66|0.43
+Dioxirane|CH2O2|1.75|0.37
+Trimethylamine|C3H9N|-26.15|0.78
+Diazomethane|CH2N2|267.37|0.86
+Methylketene|C3H4O|-63.59|0.63
+Difluorodioxidane|F2O2|31.65|0.40
+Hydrazoic acid|HN3|291.73|0.48
+Hydrogen isocyanide|CHN|192.45|0.32
+Fluoroacetylene|C2HF|105.69|0.39
+1-Butanol|C4H10O|-274.75|0.24
+Diazirine|CH2N2|313.0|1.1
+Phenylethene|C8H8|148.56|0.51
+Phenylacetylene|C8H6|317.63|0.69
+Acetophenone|C8H8O|-83.91|0.98
+Nitrosomethane|CH3NO|71.05|0.91
+Isocyanoacetylene|C3HN|487.02|0.98
+Cyclobutadiene|C4H4|428.09|0.63
+Fulvene|C6H6|216.1|1.1
+Hydrazine|H4N2|97.64|0.44
+iso-Pentane|C5H12|-152.97|0.39
+1,1-Difluoroethene|C2H2F2|-350.66|0.63
+Indane|C9H10|59.84|0.76
+Urea|CH4N2O|-234.56|0.42
+Acetamide|C2H5NO|-237.14|0.56
+1,3-Hexadiyne|C6H6|393.53|0.94
+Nitrogen sesquioxide|N2O3|86.21|0.15
+Hexafluoroethane|C2F6|-1342.33|0.80
+Cyclobutane|C4H8|27.71|0.36
+Isoprene|C5H8|75.76|0.66
+Methoxyethane|C3H8O|-217.18|0.52
+Carbon suboxide|C3O2|-92.31|0.96
+Ethylbenzene|C8H10|29.95|0.52
+Glycine|C2H5NO2|-394.69|0.55
+3-Methylenecyclopropene|C4H4|388.16|0.81
+Cyclobutene|C4H6|161.04|0.60
+Cyclohexane|C6H12|-122.78|0.29
+Diethyl ether|C4H10O|-250.21|0.75
+Cyanic acid|CHNO|-15.01|0.43
+Fulminic acid|CHNO|169.29|0.44
+Isofulminic acid|CHNO|233.56|0.43
+Formyl fluoride|CHFO|-382.22|0.31
+2-Propanamine|C3H9N|-83.44|0.52
+Nitryl hydride|HNO2|-43.62|0.84
+Cycloheptatriene|C7H8|184.38|0.90
+n-Octane|C8H18|-207.89|0.51
+2-Propanol|C3H8O|-272.71|0.26
+Furan|C4H4O|-34.52|0.94
+Trifluoroethene|C2HF3|-498.5|1.4
+Isocyanoethene|C3H3N|278.82|0.92
+1-Propanamine|C3H9N|-69.95|0.42
+Isodiazene|H2N2|300.53|0.60
+n-Heptane|C7H16|-187.28|0.44
+1,1-Difluoroethane|C2H4F2|-502.73|0.53
+2-Fluoroethanol|C2H5FO|-422.87|0.99
+Norbornadiene|C7H8|239.6|1.5
+Benzonitrile|C7H5N|215.80|0.92
+Methyl nitrite|CH3NO2|-64.98|0.69
+1,5-Hexadiyne|C6H6|421.2|1.2
+N-Methylethanamine|C3H9N|-45.6|1.1
+Phenanthrene|C14H10|203.18|0.75
+1,3-Dioxolan-2-one|C3H4O3|-510.25|0.85
+Pyruvic acid|C3H4O3|-534.88|0.97
+Methylcyclopropane|C4H8|24.2|1.2
+Ethylene glycol|C2H6O2|-389.28|0.40
+Oxalic acid|C2H2O4|-731.6|1.2
+1,2-Difluoroacetylene|C2F2|5.67|0.63
+Anisole|C7H8O|-70.82|0.63
+Benzoyl fluoride|C7H5FO|-304.3|1.3
+Nitroethane|C2H5NO2|-102.75|0.62
+2-Butanone|C4H8O|-238.29|0.79
+5-Methyl-1,3-cyclopentadiene|C6H8|111.1|1.4
+1,4-Hexadiyne|C6H6|414.8|1.2
+1,2,3,4-Hexatetraene|C6H6|420.1|1.5
+Dinitrogen tetraoxide|N2O4|10.92|0.14
+Dinitrogen pentoxide|N2O5|14.79|0.30
+1,2,3-Trioxolane|C2H4O3|-23.3|1.5
+n-Nonane|C9H20|-228.06|0.48
+Methyldioxirane|C2H4O2|-54.38|0.91
+1H-Diazirene|CH2N2|398.1|1.4
+Cycloheptane|C7H14|-117.90|0.52
+Propyn-1-ol|C3H4O|57.4|1.1
+Benzvalene|C6H6|386.7|1.2
+Aniline|C6H7N|86.82|0.72
+Aminomethylene|CH3N|238.1|1.5
+Carbonic acid|CH2O3|-611.56|0.55
+2,2-Dimethylbutane|C6H14|-185.71|0.75
+n-Decane|C10H22|-249.05|0.75
+Oxywater|H2O2|58.4|1.3
+Glyoxal|C2H2O2|-213.40|0.55
+Isocyanamide|CH2N2|322.6|1.5
+1,2-Difluoroethane|C2H4F2|-447.81|0.80
+Pentalene|C8H6|373.6|1.4
+Hexafluorobenzene|C6F6|-947.55|0.87
+Nitrobenzene|C6H5NO2|62.5|1.3
+Cyclopropanone|C3H4O|19.21|0.96
+Formaldonitrone|CH3NO|67.2|1.4
+2-Cyclopropen-1-imine|C3H3N|394.2|1.4
+Triprismane|C6H6|556.7|1.3
+Ethynol|C2H2O|92.82|0.73
+Dimethyldioxirane|C3H6O2|-108.0|1.3
+Hydroxydioxonitrate|HNO3|-197.5|2.4
+Methanediimine|CH2N2|146.5|1.3
+Oxadiazirene|N2O|350.0|1.7
+2,3-Butanedione|C4H6O2|-327.22|0.62
+Dimethylketene|C4H6O|-88.2|1.2
+Azete|C3H3N|461.4|1.5
+1,2,3-Pentatriene|C5H6|290.4|1.4
+Anthracene|C14H10|226.67|0.88
+Propadienylidenide|C3H2|382.08|0.40
+Nitrogen hydride oxide|H3NO|61.0|1.3
+2-Methylpentane|C6H14|-173.72|0.73
+3-Methylpentane|C6H14|-171.42|0.76
+2,3-Dimethylbutane|C6H14|-177.59|0.81
+1,5-Hexadiene|C6H10|83.91|0.39
+Methanediol|CH4O2|-391.58|0.62
+Nitrous acid|HNO2|-78.621|0.079
+Ethynediol|C2H2O2|-22.1|1.6
+Diisocyanogen|C2N2|613.2|1.7
+Ethyl nitrite|C2H5NO2|-97.33|0.86
+Oxaziridine|CH3NO|103.8|2.1
+2-Methylene-2H-azirine|C3H3N|397.0|1.7
+Butyraldehyde|C4H8O|-205.64|0.85
+Methylcyclopentane|C6H12|-106.12|0.36
+1,2,4-Cyclohexatriene|C6H6|403.6|2.0
+Nitrosyl fluoride|FNO|-87.83|0.76
+2-Methyl-2-propanamine|C4H11N|-120.66|0.55
+Triazirine|HN3|457.8|2.6
+Isocyanogen|C2N2|414.4|1.3
+2H-Oxete|C3H4O|53.3|1.2
+Bicyclo[1.1.0]but-3-ene|C4H4|474.2|1.6
+Bicyclo[1.1.0]but-1(3)-ene|C4H4|570.4|1.9
+Phenyl hydroperoxide|C6H6O2|-5.2|2.1
+Dewar benzene|C6H6|405.1|1.7
+1,2-Hexadien-4-yne|C6H6|397.5|1.7
+Cyclohexene|C6H10|-4.29|0.32
+3-Methyl-1,4-pentadiyne|C6H6|427.7|1.6
+Diphenylacetylene|C14H10|407.3|1.2
+Benzoic acid|C7H6O2|-294.14|0.19
+2-Methyl-2-propanol|C4H10O|-312.1|1.9
+Trioxirane|O3|269.9|1.3
+Isocyanic fluoride|CFN|302.7|1.8
+Methylenediazeniumide|CH2N2|368.7|1.9
+Isocyanobenzene|C7H5N|307.1|1.7
+Isoindene|C9H8|246.5|1.9
+1-Phenylethenol|C8H8O|-32.5|2.0
+Succinic acid|C4H6O4|-823.3|2.7
+Peroxynitrous acid|HNO3|-11.54|0.35
+Tetrafluorohydrazine|F4N2|-22.7|1.2
+2,4,5-Trioxa-1,3-diazabicyclo[1.1.1]pentane|N2O3|593.3|2.1
+Trimethylenecyclopropane|C6H6|441.4|1.8
+3,4-Bis(methylene)cyclobutene|C6H6|341.0|1.8
+1-Ethynylcyclobutene|C6H6|388.0|1.8
+3-Methyl-1,2-pentadien-4-yne|C6H6|403.5|2.2
+Trifluoronitrate|F3N|-249.2|2.5
+Hydroxymethylene|CH2O|108.94|0.27
+Methyl acetate|C3H6O2|-413.00|0.56
+Methyl formate|C2H4O2|-359.87|0.61
+Ethyl formate|C3H6O2|-393.7|1.0
+Propionic acid|C3H6O2|-453.67|0.60
+Acrolein|C3H4O|-65.21|0.64
+Dioxaziridine|HNO2|270.8|1.9
+Dimethyl carbonate|C3H6O3|-570.46|0.37
+Methyl hydrocarbonate|C2H4O3|-591.80|0.87
+1,2-Cyclobutadiene|C4H4|579.4|2.2
+1,2,4-Trioxolane|C2H4O3|-222.8|2.1
+Bicyclo[3.1.0]hexa-1,3-diene|C6H6|390.9|2.2
+3,4-Hexadien-1-yne|C6H6|407.5|2.6
+3-Ethynylcyclobutene|C6H6|407.4|2.4
+Hydroxylamine|H3NO|-43.42|0.42
+Difluorodiazene|F2N2|73.3|2.1
+Glycolaldehyde|C2H4O2|-317.33|0.89
+Fluorosyl fluoride|F2O|193.3|2.3
+Acetone enol|C3H6O|-168.07|0.68
+Propyl nitrite|C3H7NO2|-118.3|1.7
+Ethanimine|C2H5N|41.18|0.72
+Methylcarbamic acid|C2H5NO2|-432.74|0.92
+Carbamic acid|CH3NO2|-435.04|0.83
+Methoxymethylene|C2H4O|118.74|0.78
+2,2,4-Trimethylpentane|C8H18|-223.5|1.5
+3-Buten-2-one|C4H6O|-110.83|0.85
+1,3-Butadien-2-ol|C4H6O|-68.2|1.5
+Isourea|CH4N2O|-172.7|2.6
+Formamide enol|CH3NO|-141.6|1.3
+Aminohydroxymethylene|CH3NO|-33.0|1.6
+Formaldoxime|CH3NO|20.0|1.3
+Oxirene|C2H2O|270.27|0.60
+Dioxodiazoxane|N2O3|88.2|1.3
+[1.1.1]Propellane|C5H6|361.0|1.5
+5-Ethenyl-1,3-cyclopentadiene|C7H8|216.3|1.4
+1-Methoxyethenol|C3H6O2|-302.7|1.1
+Propargylenide|C3H2|437.7|1.1
+Nitrosodioxaziridine|N2O3|408.2|1.8
+Butadienylacetylene|C6H6|346.4|1.9
+Divinylacetylene|C6H6|350.8|1.9
+Propargylallene|C6H6|420.1|1.4
+3-Methylene-1-penten-4-yne|C6H6|350.3|2.2
+1,2,3,5-Hexatetraene|C6H6|380.4|1.6
+1-Hydroxy-2-propanone|C3H6O2|-373.74|0.83
+1,2-Difluoroethene|C2H2F2|-309.06|0.83
+Fluoro(fluorooxy)methylene|CF2O|-136.0|1.3
+Ethenol|C2H4O|-123.63|0.37
+2-Propene-1,2-diol|C3H6O2|-314.4|1.2
+1-Methylethenyl hydroperoxide|C3H6O2|-81.3|1.3
+Hydrodioxonitrate|HNO2|-68.3|3.1
+Vinyl hydroperoxide|C2H4O2|-36.81|0.69
+Nitrosyl nitrate|N2O4|40.4|1.8
+1,1-Ethenediol|C2H4O2|-320.05|0.82
+Peroxyformic acid|CH2O3|-288.34|0.63
+Methoxyethene|C3H6O|-106.6|1.1
+Ethoxyethene|C4H8O|-136.2|1.5
